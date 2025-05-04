@@ -1,0 +1,6 @@
+gradio
+chromadb
+sentence-transformers
+langchain
+requests
+ollama
