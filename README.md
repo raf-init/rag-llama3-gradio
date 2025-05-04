@@ -1,6 +1,5 @@
 # 🧠 RAG Chatbot with LLaMA 3 & Gradio
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Gradio](https://img.shields.io/badge/UI-Gradio-ff69b4.svg)](https://www.gradio.app/)
 [![LLaMA 3](https://img.shields.io/badge/Model-LLaMA3-yellow.svg)](https://ai.meta.com/llama/)
