@@ -27,6 +27,21 @@ A lightweight and interactive chatbot powered by **Meta’s LLaMA 3** and enhanc
 
 ---
 
+## 📁 Project Structure
+```
+rag-llama3-gradio/
+├── main.py                # Entry point: runs the Gradio app
+├── loader.py              # Loads and chunks documents for processing
+├── embedder.py            # Handles embeddings and indexing using ChromaDB
+├── rag_engine.py          # Retrieval + Generation logic using LLaMA 3
+├── requirements.txt       # Python dependencies
+├── README.md              # Project documentation
+├── data/                  # Source documents for retrieval
+│   └── demo.txt           # Sample file for testing
+└── .gitignore             # Files and folders to exclude from Git
+```
+---
+
 ## 🛠️ Installation
 
 ```bash
