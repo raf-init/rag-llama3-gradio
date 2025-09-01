@@ -6,7 +6,7 @@
 [![RAG](https://img.shields.io/badge/Type-RAG-informational.svg)](https://huggingface.co/papers/2301.03922)
 
 A lightweight and interactive chatbot powered by **Meta’s LLaMA 3** and enhanced through **Retrieval-Augmented Generation (RAG)** for domain-specific answers. Comes with a clean **Gradio** UI for easy access and testing.
-
+ 
 ---
 
 ## 🚀 Features
